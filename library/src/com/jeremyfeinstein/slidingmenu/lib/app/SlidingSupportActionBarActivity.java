@@ -1,4 +1,4 @@
-package com.urucas.fragments;
+package com.jeremyfeinstein.slidingmenu.lib.app;
 
 import android.os.Bundle;
 import android.view.View;
